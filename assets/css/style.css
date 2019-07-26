@@ -1,0 +1,12 @@
+*{
+    padding: auto;
+    margin: auto;
+  }
+
+  head {
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    margin: auto;
+    height: 80px;
+    padding: auto;
+  }
